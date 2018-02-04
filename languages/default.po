@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Video\n"
+"POT-Creation-Date: 2017-07-06 09:08+0200\n"
+"PO-Revision-Date: 2017-07-06 09:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../video-wp/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../video-wp/comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#: ../video-wp/comments.php:41 ../video-wp/template-contact.php:122
+msgid "Name:"
+msgstr ""
+
+#: ../video-wp/comments.php:48 ../video-wp/template-contact.php:127
+msgid "Email:"
+msgstr ""
+
+#: ../video-wp/comments.php:55
+msgid "Comment:"
+msgstr ""
+
+#: ../video-wp/comments.php:61
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../video-wp/comments.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../video-wp/comments.php:63
+msgid "Submit Comment"
+msgstr ""
+
+#: ../video-wp/footer.php:21 ../video-wp/header.php:62
+#: ../video-wp/header.php:108
+msgid "Trending Now"
+msgstr ""
+
+#: ../video-wp/functions.php:59
+msgid "Header Navigation"
+msgstr ""
+
+#: ../video-wp/functions.php:60
+msgid "Categories Navigation"
+msgstr ""
+
+#: ../video-wp/functions.php:61
+msgid "Top / Footer Bar Navigation"
+msgstr ""
+
+#: ../video-wp/functions.php:178
+msgid "View"
+msgstr ""
+
+#: ../video-wp/functions.php:180
+msgid "Views"
+msgstr ""
+
+#: ../video-wp/functions.php:202
+msgid ""
+"Please click \"Import Demo Data\" button only once and wait, it can take a "
+"couple of minutes."
+msgstr ""
+
+#: ../video-wp/functions.php:210
+msgid "Main Demo"
+msgstr ""
+
+#: ../video-wp/functions.php:229
+msgid "Article Page Options"
+msgstr ""
+
+#: ../video-wp/functions.php:239
+msgid "Video Youtube"
+msgstr ""
+
+#: ../video-wp/functions.php:243
+msgid "Add Youtube code ex: HIrMIeN5ttE"
+msgstr ""
+
+#: ../video-wp/functions.php:256
+msgid "Video Vimeo"
+msgstr ""
+
+#: ../video-wp/functions.php:260
+msgid "Add Vimeo code ex: 7449107"
+msgstr ""
+
+#: ../video-wp/functions.php:271
+msgid "Gallery"
+msgstr ""
+
+#: ../video-wp/functions.php:274
+msgid "Image with any size!"
+msgstr ""
+
+#: ../video-wp/functions.php:281
+msgid "Featured Image"
+msgstr ""
+
+#: ../video-wp/functions.php:283
+msgid "Hide Featured Image on single page for this article"
+msgstr ""
+
+#: ../video-wp/functions.php:350
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../video-wp/functions.php:418
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:162
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../video-wp/functions.php:419
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:163
+msgid "Install Plugins"
+msgstr ""
+
+#: ../video-wp/functions.php:420
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:164
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../video-wp/functions.php:421
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:165
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../video-wp/functions.php:422
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:226
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../video-wp/functions.php:423
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:228
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2010
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../video-wp/functions.php:424
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../video-wp/header.php:144 ../video-wp/header.php:161
+#: ../video-wp/index.php:101 ../video-wp/template-home.php:110
+#: ../video-wp/functions/widgets/home-module-1.php:53
+#: ../video-wp/functions/widgets/home-module-3.php:80
+#: ../video-wp/functions/widgets/home-module-4.php:84
+#: ../video-wp/functions/widgets/home-module-5.php:53
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../video-wp/header.php:168 ../video-wp/index.php:113
+#: ../video-wp/single.php:36 ../video-wp/template-home.php:122
+#: ../video-wp/functions/widgets/home-module-3.php:92
+#: ../video-wp/functions/widgets/home-module-3.php:128
+#: ../video-wp/functions/widgets/home-module-4.php:96
+#: ../video-wp/functions/widgets/widget-cat.php:60
+#: ../video-wp/functions/widgets/widget-posts-tags.php:60
+#: ../video-wp/functions/widgets/widget-posts.php:58
+#: ../video-wp/functions/widgets/widget-review-rand.php:58
+#: ../video-wp/functions/widgets/widget-review-recent.php:58
+#: ../video-wp/functions/widgets/widget-review.php:58
+#: ../video-wp/functions/widgets/widget-top-posts.php:58
+msgid "ago"
+msgstr ""
+
+#: ../video-wp/index.php:28 ../video-wp/template-home.php:35
+msgid "Add Categories Here"
+msgstr ""
+
+#: ../video-wp/index.php:33 ../video-wp/single.php:103
+#: ../video-wp/template-home.php:40
+msgid "Share"
+msgstr ""
+
+#: ../video-wp/index.php:35 ../video-wp/single.php:105
+#: ../video-wp/template-home.php:42
+msgid "Tweet"
+msgstr ""
+
+#: ../video-wp/index.php:38 ../video-wp/template-home.php:45
+msgid "Pinit"
+msgstr ""
+
+#: ../video-wp/index.php:40 ../video-wp/single.php:110
+#: ../video-wp/template-home.php:47
+msgid "Google+"
+msgstr ""
+
+#: ../video-wp/index.php:42 ../video-wp/single.php:112
+#: ../video-wp/template-home.php:49
+msgid "Email"
+msgstr ""
+
+#: ../video-wp/index.php:55
+msgid "All posts in:"
+msgstr ""
+
+#: ../video-wp/index.php:57
+msgid "All posts tagged in:"
+msgstr ""
+
+#: ../video-wp/index.php:59
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../video-wp/index.php:61
+msgid "All posts by:"
+msgstr ""
+
+#: ../video-wp/index.php:63
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: ../video-wp/index.php:63
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: ../video-wp/index.php:133 ../video-wp/template-home.php:143
+msgid "Older Entries"
+msgstr ""
+
+#: ../video-wp/index.php:134 ../video-wp/template-home.php:144
+msgid "Newer Entries"
+msgstr ""
+
+#: ../video-wp/page.php:57 ../video-wp/single.php:204
+msgid "Comments"
+msgstr ""
+
+#: ../video-wp/searchform.php:2
+msgid "Live Search ..."
+msgstr ""
+
+#: ../video-wp/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../video-wp/single.php:108
+msgid "Pin it"
+msgstr ""
+
+#: ../video-wp/single.php:113
+msgid "WhatsApp"
+msgstr ""
+
+#: ../video-wp/single.php:139
+msgid "Related Articles by Tags"
+msgstr ""
+
+#: ../video-wp/template-contact.php:111
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: ../video-wp/template-contact.php:132
+msgid "Subject:"
+msgstr ""
+
+#: ../video-wp/template-contact.php:137
+msgid "Message:"
+msgstr ""
+
+#: ../video-wp/template-contact.php:141
+msgid "Submit Message"
+msgstr ""
+
+#: ../video-wp/template-contact.php:141
+msgid "All Fields are mandatory!"
+msgstr ""
+
+#: ../video-wp/template-home.php:67
+msgid "Latest Articles"
+msgstr ""
+
+#: ../video-wp/admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr ""
+
+#: ../video-wp/admin/front-end/options.php:32
+msgid "Themes"
+msgstr ""
+
+#: ../video-wp/admin/front-end/options.php:33
+msgid "Support"
+msgstr ""
+
+#: ../video-wp/admin/front-end/options.php:46
+#: ../video-wp/admin/front-end/options.php:70
+msgid "Save All Changes"
+msgstr ""
+
+#: ../video-wp/admin/front-end/options.php:71
+msgid "Options Reset"
+msgstr ""
+
+#: ../video-wp/functions/widgets.php:7
+msgid "Default Sidebar (Right)"
+msgstr ""
+
+#: ../video-wp/functions/widgets.php:17
+msgid "Home Modules (Middle)"
+msgstr ""
+
+#: ../video-wp/functions/widgets.php:18
+msgid "Use only the widgets that start with the name \"Module\"."
+msgstr ""
+
+#: ../video-wp/functions/widgets.php:27
+msgid "Home Sidebar (Right)"
+msgstr ""
+
+#: ../video-wp/functions/widgets.php:36
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../video-wp/functions/widgets.php:45
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../video-wp/functions/widgets.php:54
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:227
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:229
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:230
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:231
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:232
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:233
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:234
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:586
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2227
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1221
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1402
+msgid "Private Repository"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1224
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1405
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1229
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1232
+msgid "Required"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1232
+msgid "Recommended"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1235
+msgid "Not Installed"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1237
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1342
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1463
+msgid "Install"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1366
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1464
+msgid "Activate"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1426
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1442
+msgid "Plugin"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1443
+msgid "Source"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1444
+msgid "Type"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1445
+msgid "Status"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1993
+msgid "Install package not available."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1994
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1995
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1996
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1997
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:1998
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2009
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2123
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2124
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2124
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2133
+msgid "Show Details"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2124
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2133
+msgid "Hide Details"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2125
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2126
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2130
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2131
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2132
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2133
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2134
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../video-wp/functions/custom/class-tgm-plugin-activation.php:2135
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../video-wp/functions/custom/comments.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../video-wp/functions/custom/comments.php:32
+msgid "Pingback:"
+msgstr ""
+
+#: ../video-wp/functions/custom/github.php:87
+#: ../video-wp/functions/custom/github.php:97
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../video-wp/functions/custom/github.php:294
+#, php-format
+msgid ""
+"%sActivate the Envato Market plugin%s to get updates for your ThemeForest "
+"and CodeCanyon items."
+msgstr ""
+
+#: ../video-wp/functions/custom/github.php:305
+#, php-format
+msgid ""
+"%sInstall the Envato Market plugin%s to get updates for your ThemeForest and "
+"CodeCanyon items."
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-1.php:11
+msgid "== M1 == Display Slider with Featured Articles by Tag."
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-1.php:12
+msgid "Module 1: Slider - Featured Articles"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-1.php:55
+#: ../video-wp/functions/widgets/home-module-5.php:55
+msgid "Featured"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-1.php:86
+#: ../video-wp/functions/widgets/widget-posts-tags.php:102
+msgid "Tag:"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-1.php:91
+#: ../video-wp/functions/widgets/home-module-2.php:101
+#: ../video-wp/functions/widgets/home-module-4.php:141
+#: ../video-wp/functions/widgets/home-module-5.php:104
+#: ../video-wp/functions/widgets/widget-cat.php:100
+#: ../video-wp/functions/widgets/widget-posts-tags.php:97
+#: ../video-wp/functions/widgets/widget-posts.php:94
+#: ../video-wp/functions/widgets/widget-review-rand.php:94
+#: ../video-wp/functions/widgets/widget-review-recent.php:94
+#: ../video-wp/functions/widgets/widget-review.php:94
+#: ../video-wp/functions/widgets/widget-tags.php:53
+#: ../video-wp/functions/widgets/widget-top-posts.php:94
+msgid "Number of Posts:"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-2.php:11
+msgid "== M2 == Display 3 Articles by category in one row."
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-2.php:12
+msgid "Module 2: Articles by Categories"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-2.php:35
+#: ../video-wp/functions/widgets/home-module-3.php:44
+#: ../video-wp/functions/widgets/home-module-4.php:46
+msgid "more"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-2.php:96
+#: ../video-wp/functions/widgets/home-module-3.php:165
+#: ../video-wp/functions/widgets/home-module-4.php:136
+#: ../video-wp/functions/widgets/widget-banner-text.php:61
+#: ../video-wp/functions/widgets/widget-banner.php:43
+#: ../video-wp/functions/widgets/widget-cat.php:95
+#: ../video-wp/functions/widgets/widget-posts-tags.php:92
+#: ../video-wp/functions/widgets/widget-posts.php:89
+#: ../video-wp/functions/widgets/widget-review-rand.php:89
+#: ../video-wp/functions/widgets/widget-review-recent.php:89
+#: ../video-wp/functions/widgets/widget-review.php:89
+#: ../video-wp/functions/widgets/widget-tags.php:47
+#: ../video-wp/functions/widgets/widget-top-posts.php:89
+msgid "Title:"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-2.php:106
+#: ../video-wp/functions/widgets/home-module-3.php:170
+#: ../video-wp/functions/widgets/home-module-4.php:146
+#: ../video-wp/functions/widgets/home-module-5.php:87
+#: ../video-wp/functions/widgets/widget-cat.php:105
+msgid "Category:"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-3.php:11
+msgid "== M3 == Display 1+4 articles with small thumbnails."
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-3.php:12
+msgid "Module 3: Articles by Categories"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-4.php:11
+msgid "== M4 == Display 2 Articles by category in one row."
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-4.php:12
+msgid "Module 4: Articles by Categories"
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-5.php:11
+msgid "== M5 == Display Slider with Articles by category."
+msgstr ""
+
+#: ../video-wp/functions/widgets/home-module-5.php:12
+msgid "Module 5: Slider - Articles by category"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-banner-text.php:11
+msgid "Advertisement Text."
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-banner-text.php:12
+msgid "Custom: Advertisement 300px Text"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-banner-text.php:66
+msgid "Advertisement HTML:"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-banner-text.php:71
+msgid "Custom CSS Style:"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-banner.php:11
+msgid "Advertisement - Paste your HTML or JavaScript code."
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-banner.php:12
+msgid "Custom: Advertisement 300px"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-banner.php:48
+msgid "Paste your HTML or JavaScript code here:"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-cat.php:11
+msgid "Posts by Categories"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-cat.php:12
+msgid "Custom: Posts by Categories"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-posts-tags.php:11
+msgid "Posts by Tags"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-posts-tags.php:12
+msgid "Custom: Posts by Tags"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-posts.php:11
+msgid "Your site's most recent Posts."
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-posts.php:12
+msgid "Custom: Recent Posts"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-review-rand.php:11
+msgid "Your site's Random Reviews."
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-review-rand.php:12
+msgid "Custom: Random Reviews"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-review-recent.php:11
+msgid "Your site's Recent Reviews."
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-review-recent.php:12
+msgid "Custom: Recent Reviews"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-review.php:11
+msgid "Your site's Best Reviews."
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-review.php:12
+msgid "Custom: Best Reviews"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-tags.php:11
+msgid "Display your most used Tags."
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-tags.php:12
+msgid "Custom: Most used Tags"
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-top-posts.php:11
+msgid "Popular Posts - Display your Popular / Top Posts by comments."
+msgstr ""
+
+#: ../video-wp/functions/widgets/widget-top-posts.php:12
+msgid "Custom: Popular Posts"
+msgstr ""

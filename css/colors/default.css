@@ -1,0 +1,331 @@
+/* Style Video ( default color ) -------------------------------------------
+-----------------------------------------------------------------------------*/
+h1,h2,h3,h4,h5,h6          { color: #000;}
+code, pre                  { border: 1px solid #eae9e9; background-color: #FFF; -moz-box-shadow: 0 1px 10px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 10px rgba(0,0,0,0.1); box-shadow: 0 1px 10px rgba(0,0,0,0.1);}
+
+/*-----------------------------------------------------------------------------
+----------------------------- 1 - Layout --------------------------------------
+-----------------------------------------------------------------------------*/
+a:link, a:visited          { color: #000; text-decoration: none; }
+a:hover                    { color: #fd0005; /* orange color */  }
+::-moz-selection           { background:#000; color: #fff; text-shadow: none; }
+::selection                { background:#000; color: #fff; text-shadow: none; }
+/* -- Header -- */
+html body                  { color: #414141; }
+header                     { -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.1); box-shadow: 0 1px 5px rgba(0,0,0,0.1);}
+.main-menu                 { background-color: #fd0005; -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.1); box-shadow: 0 1px 5px rgba(0,0,0,0.1); }
+.top-navigation            { background-color: #FFF;}
+
+/* - Layout content - */
+.wrap-fullwidth            { background-color: #fafafa; border-left: 1px solid #ddd; border-right: 1px solid #ddd; -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.1); box-shadow: 0 1px 3px rgba(0,0,0,0.1);}
+.wrap-fullwidth-bg         { background-color: #FFF; -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.1); box-shadow: 0 1px 5px rgba(0,0,0,0.1); }
+
+/* - page-content - */
+.wrap-content              { background-color: #fafafa; border-left: 1px solid #ddd; border-right: 1px solid #ddd; -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.1); box-shadow: 0 1px 3px rgba(0,0,0,0.1);}
+#small-sidebar             { background-color: #fd0005; }
+
+/* - single-content - */
+.wrap-left-content         { border-right: 1px solid #ddd; background-color: #FFF; }
+.single-content            { border-right: 1px solid #ddd; background-color: #FFF;}
+
+
+/*-----------------------------------------------------------------------------
+----------------------------- 2 - Header --------------------------------------
+-----------------------------------------------------------------------------*/
+
+/* -- Search Header (menu) -- */
+#searchform2 .buttonicon   { background-color: #222;}
+#searchform2 .buttonicon:hover { background-color: #111;}
+#searchform2 #s            { background-color: #FFF; color: #000 !important; }
+
+/* -- Live Search -- */
+ul.search_results li:hover { background-color: #f2f2f2 !important; }
+ul.search_results          { -moz-box-shadow: 0 0 5px #999 !important; -webkit-box-shadow: 0 0 5px #999 !important; box-shadow: 0 0 5px #999 !important;} 
+
+/* -- Trending Articles Slide -- */
+.trending-btn, .article-btn{ color: #FFF; background-color: #ffd800; }
+.black-color               { background-color: #000;}
+
+/* -- Category ribbon -- */
+.artbtn-category           { background-color: #fd0005; }
+.artbtn-category a         { color: #FFF;}
+.artbtn-category a:hover   { color: #FFF !important;}
+
+/* -- Menu left (sidebar )-- */
+ul.menu-left li.menuline   { color: #FFF; background-color: #FFF; -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.2); -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.2); box-shadow: 0 3px 10px rgba(0,0,0,0.2);}
+ul.menu-left li.menuline a { color: #000;  }
+
+/* -- Menu left (sidebar) -- */
+ul.menu-left li a          { color: #FFF; }
+ul.menu-left li a:hover    { color: #FFF !important; }
+ul.menu-left li.menuline a:hover { color: #000 !important;}
+
+/* -- Single Share -- */
+#home-share a span         { color: #FFF;}
+#home-share a.fbbutton     { background-color: #3b5998; color: #FFF !important;}
+#home-share a.twbutton     { background-color: #00aced; color: #FFF !important;}
+#home-share a.pinbutton    { background-color: #ca212a; color: #FFF !important;}
+#home-share a.googlebutton { background-color: #eb4026; color: #FFF !important;}
+#home-share a.emailbutton  { background-color: #666; color: #FFF !important;} 
+
+/* -- Top Header Menu -- */
+.jquerycssmenu ul li.current_page_item > a, 
+.jquerycssmenu ul li.current-menu-ancestor > a, 
+.jquerycssmenu ul li.current-menu-item > a, 
+.jquerycssmenu ul li.current-menu-parent > a { color: #000; background: #FFF;  }
+.jquerycssmenu ul li ul li.current_page_item > a, 
+.jquerycssmenu ul li ul li.current-menu-ancestor > a, 
+.jquerycssmenu ul li ul li.current-menu-item > a, 
+.jquerycssmenu ul li ul li.current-menu-parent > a { color: #000; background: #FFF; -moz-box-shadow: 0 0px 0px rgba(0,0,0,0.2) !important; -webkit-box-shadow: 0 0px 0px rgba(0,0,0,0.2) !important; box-shadow: 0 0px 0px rgba(0,0,0,0.2) !important;}
+/*Top level menu link items style*/
+.jquerycssmenu ul li a { color: #FFF; }
+.jquerycssmenu ul li:hover a { color: #000 !important; background: #FFF; text-decoration: none !important;}
+/*1st sub level menu*/
+.jquerycssmenu ul li ul { background: #FFF;}
+/* Sub level menu links style */
+.jquerycssmenu ul li ul li a { color:#000; border: none; }
+.jquerycssmenu ul li ul li:hover { color: #000 !important;}
+.jquerycssmenu ul li ul li:hover a { background-color: #FFF; color: #000 !important;}
+.jquerycssmenu ul li ul li:hover a:hover { background-color: #f5f5f5; color: #000 !important;}
+
+/* -- Top social icons -- */
+.top-social li a            { color: #FFF;}
+.top-social li a:hover      { color: #FFF;} 
+
+/* -- Review Line -- */
+.review-score               { background-color: #ffd800;}
+/* -- Review line all review box div -- */
+.review-line                { background-color: #000; }
+/* -- Review Nr. ex 8.6 -- */
+.review-box-nr              { background-color: #ffd800; color: #FFF;}
+
+/* -- Top articles by views (slider) -- */
+#content-top-slider        { background-color: #000;}
+#top-slider ul li h3 a     { color: #FFF;}
+#top-slider ul li a        { color: #FFF;}
+#top-slider ul li .metadiv { background-color: #FFF;}
+#top-slider ul li:hover img { border: 10px solid #FFF; border-bottom: 5px solid #FFF;}
+#top-slider ul li .metadiv a {  color: #000; border-bottom: 1px solid #ffd800; }
+
+
+/*-----------------------------------------------------------------------------
+----------------------------- 3 - Home Content --------------------------------
+-----------------------------------------------------------------------------*/
+
+/* -- Front-end Submission Form -- */
+input.ap-form-submit-button       { background-color: #ffd800; color: #FFF; } 
+
+/* ##### Modern Articles ############# 
+################################### */
+ul.modern-articles li div.content-list { background-color: #FFF; }
+ul.modern-articles li a h2 { color: #000;}
+ul.modern-articles li .artbtn-category   { background-color: rgba(000, 0, 0, 0.5);}
+ul.modern-articles li .artbtn-category a { color: #FFF;}
+ul.modern-articles li .artbtn-category a:hover { color: #FFF !important;}
+ul.modern-articles li .author-il div.link-author a { color: #000; border-bottom: 1px solid #ffd800;}
+ul.modern-articles li .author-il div.time-article a { color: #000; border-bottom: 1px solid #ffd800;}
+ul.modern-articles li .author-il p { color: #222; }
+/* -- Sticky Posts style -- */
+ul.modern-articles li.sticky  {  background-color: #ffd800; }
+ 
+/* - Review - */
+.review-box-nr i                  { color: #FFF !important;}
+.review-box-nr                    { color: #FFF; }
+
+/* -- Pagination -- */
+.wp-pagenavi a, .wp-pagenavi span { background-color: #000; color: #fff !important;}
+.wp-pagenavi a:hover { color: #fff !important; background-color: #fd0005;}
+.wp-pagenavi span.current { background-color: #fd0005; color: #fff !important; }
+
+
+/*-----------------------------------------------------------------------------
+----------------------------- 4 - Entry Content -------------------------------
+-----------------------------------------------------------------------------*/
+
+/* -- ribbons middle categories - */
+.single-category a { background-color: #ffd800; color: #FFF !important;}
+
+/* -- Entry Top / Featured Image / Videos -- */
+.entry-top div.link-author a { color: #000; border-bottom: 1px solid #ffd800; }
+.entry-top div.time-article a { color: #000; border-bottom: 1px solid #ffd800;}
+.entry-top div.views-article a, 
+.entry-top div.views-article a span { color: #000; border-bottom: 1px solid #ffd800;}
+
+/* - title - */
+h1.article-title           { color: #000; }
+h1.page-title              { color: #000; }
+/* - featured img / videos - */
+.media-single-content      { background-color: #f9f9f9; }
+ 
+/* -- Entry content style -- */
+.entry p a        { color: #FFF; background-color: #fd0005;}
+.entry p a:hover  { color: #000 !important; background-color: #eee !important;}
+
+/* -- blockquote -- */
+blockquote p               { color: #ccc; }
+blockquote p:hover         { color: #aaa;}
+
+/* -- Responsive Images -- */
+.wp-caption-text           { color: #888;}
+.entry .wp-caption-text a         { color: #000 !important; }
+.wp-caption-text a:hover   { color: #000 !important; }
+
+/* -- Pagination entry articles -- */
+.my-paginated-posts span { background-color: #fd0005; color: #FFF;}
+.my-paginated-posts p a  { background-color: #000; color:#fff;}
+
+/* -- Related Articles -- */
+#related-wrap            { background-color: #000; }
+#related-wrap ul.video-articles a   { color: #FFF !important;}
+#related-wrap .article-btn { background-color: #FFF; color: #FFF;}
+div.tagcloud-entry a       { background-color: #222; color: #666; }
+
+/* -- Tags Articles -- */
+#tags-wrap            { background-color: #ffd800; }
+div.tags-btns a       { background: #fff !important; color: #222; }
+
+/* -- Line for Related Articles -- */
+.line_bottom_related  { border-bottom: 1px solid #ddd; m}
+
+/*-----------------------------------------------------------------------------
+----------------------------- 5 - Sidebar & Widgets ---------------------------
+-----------------------------------------------------------------------------*/
+
+/* -- Sidebar -- */
+.widget-title    { background-color: #000; }
+.widget-title h3 { color: #FFF; }
+.line_widget_col { border-bottom: 1px solid #ddd;}
+footer .widget-title { background-color: #FFF !important;}
+footer .widget-title h3 { color: #000;}
+
+/* ##### Featured Slider Module 1 ##### 
+################################## */
+#featured-slider 				  { background-color: #000;}
+#featured-slider .content h3      { color: #FFF; }
+#featured-slider .content a h3    { color: #FFF; }
+#featured-slider .content a:hover { color: #FFF !important; }
+.owl-prev, .owl-next              { background-color: #FFF; }
+.owl-prev i, .owl-next i          { color: #222; }
+#featured-slider .artbtn-category   { background-color: #fd0005;  }
+#featured-slider .artbtn-category a { color: #FFF;}
+#featured-slider .artbtn-featured   { background-color: #FFF; }
+#featured-slider .artbtn-featured a { color: #222; }
+#featured-slider .artbtn-featured a:hover { color: #222 !important; }
+
+/* ##### Featured Slider Module 5 ##### 
+################################## */
+#featured-slider2 				  { background-color: #000;}
+#featured-slider2 .content h3      { color: #FFF; }
+#featured-slider2 .content a h3    { color: #FFF; }
+#featured-slider2 .content a:hover { color: #FFF !important; }
+.owl-prev, .owl-next              { background-color: #FFF; }
+.owl-prev i, .owl-next i          { color: #222; }
+#featured-slider2 .artbtn-category   { background-color: #fd0005;  }
+#featured-slider2 .artbtn-category a { color: #FFF;}
+#featured-slider2 .artbtn-featured   { background-color: #FFF; }
+#featured-slider2 .artbtn-featured a { color: #222; }
+#featured-slider2 .artbtn-featured a:hover { color: #222 !important; }
+
+
+/* -- Article widget -- */
+.article_list li         { border-bottom: dashed 1px #ededed; }
+ul.article_list li .author-il div.link-author a { color: #000; border-bottom: 1px solid #ffd800;}
+ul.article_list li .author-il div.time-article a { color: #000; border-bottom: 1px solid #ffd800;}
+ 
+/* -- Widget RSS -- */
+.widget_rss h3 a         { color: #222;}
+
+/* -- Default Tags -- */
+div.tagcloud a:hover  { }
+div.tagcloud a        { background: #f5f5f5 !important; }
+div.tagcloud span     { color: #fd0005; }
+
+div.widget_archive select, div.widget_categories select { border-radius: 3px; border:1px solid #d5d6d8; color:#999; }
+
+/* -- Default Search -- */
+div.widget_search #searchform2 #s { background-color: #fafafa; }
+
+/* -- Calendar -- */ 
+#wp-calendar tbody td#today { background-color: #000; color: #FFF;}
+#wp-calendar tbody td#today a { color: #FFF !important;}
+
+
+/*-----------------------------------------------------------------------------
+----------------------------- 6 - Comments Form -------------------------------
+-----------------------------------------------------------------------------*/
+
+ul.comment li                 { border-bottom:  1px solid #eae9e9;}
+ul.comment li ul.children li  { -moz-box-shadow: none; box-shadow: none; -webkit-box-shadow: none;}
+
+/* -- Comments -- */
+.comments h3.comment-reply-title  { color: #FFF !important; background-color: #000; }
+.comments h3.comment-reply-title i { border-color: #000 transparent #000 #000; }
+.comments h3.comment-reply-title a { color: #FFF; }
+
+/* -- comment Form -- */
+#commentform #author, #email  { border:2px solid #d5d6d8; color:#333; }	
+#commentform textarea         { border:2px solid #d5d6d8; color:#333;} 
+#commentform #sendemail       { background-color: #ffd800; color: #FFF; border: 1px solid #FFF;}
+#commentform label span       { color:#F00;}
+#commentform span             { color:#F00;} 
+
+
+/*-----------------------------------------------------------------------------
+----------------------------- 7 - Contact Form --------------------------------
+-----------------------------------------------------------------------------*/
+
+/* -- Contact Form -- */
+#contactform #contactName, #contactform #emaill, #contactform #subject { border:2px solid #d5d6d8; color:#333; }	
+#contactform textarea         {  border:2px solid #d5d6d8; color:#333;} 
+#contactform .sendemail       { background-color: #fd0005; color: #FFF; }
+#contactform label span       { color:#F00;}
+#contactform span             { color:#F00;}
+#contactform label.error      { color:#F00;}
+
+/* -- Contact Form 7 Plugin -- */
+form.wpcf7-form input         { border:2px solid #d5d6d8; color:#333; }
+form.wpcf7-form textarea      { border:2px solid #d5d6d8; color:#333; }
+form.wpcf7-form input.wpcf7-submit    { background-color: #000; color: #FFF; border: none; }
+form.wpcf7-form .wpcf7-validation-errors { color: red;}
+
+
+/*-----------------------------------------------------------------------------
+----------------------------- 8 - Custom Pages --------------------------------
+-----------------------------------------------------------------------------*/
+
+/* -- Tag & Category Index -- */
+#mcTagMap .tagindex h4, #sc_mcTagMap .tagindex h4 { color: #fd0005; }
+#mcTagMap .tagindex ul li, #sc_mcTagMap .tagindex ul li { border-bottom: 1px solid #f0eee9; }
+
+/* --- Review Plugin --- */
+#review-box                { border: 1px solid #eae9e9; background-color: #FFF; -moz-box-shadow: 0 1px 10px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 10px rgba(0,0,0,0.1); box-shadow: 0 1px 10px rgba(0,0,0,0.1);}
+h2.review-box-header, .user-rating-text strong, .user-rating-text { color: #000 !important; }
+ 
+
+/*-----------------------------------------------------------------------------
+------------------------------ 9 - Footer -------------------------------------
+-----------------------------------------------------------------------------*/
+
+footer                        { background-color: #000;}
+.social-section               { background-color: #fd0005; -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.1); box-shadow: 0 1px 5px rgba(0,0,0,0.1);}
+.wrap-footer                  { background-color: #FFF; border-top: 1px solid #f5f5f5;}
+.footer-navigation            { background-color: #FFF;}
+
+/* -- widgets -- */
+footer .widget a              { color: #FFF !important; opacity: 0.9;}
+footer #wp-calendar tbody td  { background: #f5f5f5; }
+footer #wp-calendar tbody     { background: #f5f5f5; }
+footer .article_list li       { border-bottom: dashed 1px rgba(241, 241, 241, 0.1); }
+
+/* -- Copyright -- */
+.copyright-btn                { color: #FFF; background-color: #ffd800; } 
+.footer-copyright             { color: #000;}
+.footer-copyright a           { color: #fd0005;}
+
+/* -- Footer Social Icons -- */
+ul.footer-social li a         { color: #FFF; }
+ul.footer-social li a:hover   { color: #FFF !important; }
+
+/* -- Back to Top -- */
+#back-top span                { background-color: #fd0005;}
+#back-top a:hover             { opacity: 0.7; } 
